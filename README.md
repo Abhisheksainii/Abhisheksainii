@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abhishek Saini
-- 👀 I’m interested in Software Development and Automation
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Flutter Framework
 - 💞️ I’m looking to collaborate on Open-Source Projects
 - 📫 How to reach me : LinkedIn -> https://www.linkedin.com/in/abhishek-saini-9885941bb/
