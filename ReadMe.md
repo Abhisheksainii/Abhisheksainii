@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍💻 I build Mobile Apps<br>💻 Looking forward to work on Open-Source Projects<br>💬 You can ask me about cross-platform mobile apps<br>
+🧑‍💻 I build Mobile Apps📱(Cross-platform)<br>💻 Looking forward to work on Open-Source Projects<br>💬 You can ask me about cross-platform mobile apps<br>
 
 
 ## 🌐 Socials:
